@@ -11,16 +11,26 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
  * :black_nib: Digilent Board Files
 
 Ahora se iniciara con el desarrollo de la guia por lo tanto se creara un proyecto en vivado: 
+
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png"/>
 </p>
+
 Luego se definen diferentes caracteristicas en el proyecto creado como las que se pueden observar a continuación:
+
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-22-41.png"/>
 </p>
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-32-28.png"/>
 </p>
+ 
+e iniciamos a añadir algunos bloques en el espacio de diseño, uno de ellos es el swerv_wrapper_verilog0:
+
+<p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
+</p>
+
 
 
 
