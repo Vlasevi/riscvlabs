@@ -1,4 +1,4 @@
- # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME </p>
+ # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME :books: </p>
 
 Para la realización de los siguientes laboratorios incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
@@ -9,6 +9,11 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
  * :black_nib: Vivado 
  * :black_nib: Cable Drivers
  * :black_nib: Digilent Board Files
+
+Ahora se iniciara con el desarrollo de la guia por lo tanto se creara un proyecto en vivado: 
+💿 <p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png"/>
+</p>
 
 
 
