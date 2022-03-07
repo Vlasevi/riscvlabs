@@ -1,8 +1,10 @@
  # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME :books: </p>
+ 
+ Para desarrollar el curso de RVfpga SoC, se desarrollan un conjuto de laboratorios para lograr un mejor entendimiento. Este informe, se realizan los laboratorios 1 y 2 correspondientes a este curso.
 
-Para la realización de los siguientes laboratorios incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
+Para la realización de estos incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
-Antes de realizar los laboratorios instalamos los siguientes programas:
+El software necesario para el desarrollo de los laboratorios es el siguiente:
 
  * :black_nib: Vivado 
  * :black_nib: Cable Drivers
