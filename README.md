@@ -31,7 +31,12 @@ e iniciamos a añadir algunos bloques en el espacio de diseño, uno de ellos es 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
 
+Luego de realizar cada una de las conexiones requeridas obtenemos un diseño como el que se puede observar en la siguiente imagen: 
 
+
+<p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/ff9088e116703afc03ac4f4b44b5fb3902b39b47/Im%C3%A1genes/Screenshot%20from%202022-03-06%2020-32-55.png"/>
+</p>
 
 
 ### LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
