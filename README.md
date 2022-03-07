@@ -5,7 +5,8 @@ Para la realización de los siguientes laboratorios incialmente nos registramos 
 ### LABORATORIO 1 - INTRODUCCIÓN A RVfpga-Soc
 Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en la guia de forma que se fuera entendiendo como funciona RVfpga-SoC, además de ir conociendo sus caracteristicas principales, posteriormente se fueron conociendo los requerimientos necesarios para el correcto desarrollo del laboratorio y se inicio con la instalación de los siguientes programas:
 
- *  Vivado 
+
+:black_nib: Vivado 
 
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/3fdb5cfdf1029d4b719555c3162f732c2556067e/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-01-56.png" alt="Sublime's custom image"/>
@@ -31,9 +32,9 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
 :heavy_check_mark:
 
 ### REFERENCIAS 
-:paperclip: The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
-:paperclip: The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
-:paperclip: The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
+*:paperclip: The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
+*:paperclip: The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
+*:paperclip: The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
 
 #### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
 * :woman: Angela Yulieth Rivera Gómez - 2162467
