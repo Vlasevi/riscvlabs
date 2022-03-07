@@ -1,4 +1,4 @@
- <p align= "center"> RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME </p> 
+ ## <p align= "center"> RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME </p> 
 
 Para la realización de los siguientes laboratorios incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
