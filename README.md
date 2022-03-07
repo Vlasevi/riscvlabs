@@ -13,7 +13,7 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
 Ahora se iniciara con el desarrollo de la guia por lo tanto se creara un proyecto en vivado: 
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/073427536581c14a7dcc519191a407ddf5a3ae89/Im%C3%A1genes/Screenshot%20from%202022-03-06%2015-27-54.png" alt="modulo" width="400"/>
 </p>
 
 Luego se definen diferentes caracteristicas en el proyecto creado como las que se pueden observar a continuación:
