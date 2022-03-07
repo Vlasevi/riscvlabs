@@ -56,9 +56,9 @@ Finalmente se puede observar que se obtuvo el bit stream y la sintesis correctam
 </p>
 
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
-Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia y se 
+Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia de manera que se conocieran y entendieran los requerimientos necesarios para la implementación.
 
-
+Primero 
 
 
 
