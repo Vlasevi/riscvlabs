@@ -7,6 +7,10 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
 
  *  Vivado 
 
+<p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/3fdb5cfdf1029d4b719555c3162f732c2556067e/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-01-56.png" alt="Sublime's custom image"/>
+</p>
+
 
  *  Cable Drivers
  
