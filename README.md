@@ -69,8 +69,8 @@ Primero
 
 ### REFERENCIAS :paperclip:
 * The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
-* paperclip: The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
-* paperclip: The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
+* The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
+* The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
 
 #### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
 * :woman: Angela Yulieth Rivera Gómez - 2162467
