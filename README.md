@@ -39,6 +39,20 @@ Luego de realizar cada una de las conexiones requeridas obtenemos un diseño com
 </p>
 
 
+Ahora se va a generar el bit stream: 
+
+<p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
+</p>
+
+Finalmente se puede observar que se obtuvo el bit stream y la sintesis correctamente: 
+
+<p align="center"> 
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
+</p>
+
+
+
 ### LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
 
 
