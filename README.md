@@ -1,4 +1,4 @@
- # <p align= "center"> RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME </p> 
+ # :books: <p align= "center"> RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME </p> :books:
 
 Para la realización de los siguientes laboratorios incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
@@ -22,15 +22,15 @@ Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en
 
 
 ### CONCLUSIONES 
-*
-*
-*
+:heavy_check_mark:
+:heavy_check_mark:
+:heavy_check_mark:
 
 ### REFERENCIAS 
-* :paperclip: The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
-* :paperclip: The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
-* :paperclip: The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
-*
+:paperclip: The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
+:paperclip: The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
+:paperclip: The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
+
 #### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
 * :woman: Angela Yulieth Rivera Gómez - 2162467
 * :man: Vladimir Sebastian Villamizar Anaya - 2171522
