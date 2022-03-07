@@ -2,7 +2,7 @@
 
 Para la realización de los siguientes laboratorios incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
-### LABORATORIO 1 - INTRODUCCIÓN A RVfpga-Soc
+### :large_orange_diamond: LABORATORIO 1 - INTRODUCCIÓN A RVfpga-Soc
 Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en la guia de forma que se fuera entendiendo como funciona RVfpga-SoC, además de ir conociendo sus caracteristicas principales, posteriormente se fueron conociendo los requerimientos necesarios para el correcto desarrollo del laboratorio y se inicio con la instalación de los siguientes programas:
 
 
@@ -53,7 +53,7 @@ Finalmente se puede observar que se obtuvo el bit stream y la sintesis correctam
 
 
 
-### LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
+### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
 
 
 ### CONCLUSIONES :heavy_check_mark:
