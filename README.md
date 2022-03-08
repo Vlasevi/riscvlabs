@@ -44,7 +44,7 @@ Se deben definir de esta manera, es decir, globales los siguientes archivos:
  * registers.svh
  * typedef.svh
  
-* Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques como se puede observar en la imagen:
+Mediante la herramiento de Diseño de Bloques llamado BD, se crea un espacio de trabajo en blanco de diseño de bloques como se puede observar en la imagen:
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/18b41a04b81fd2621903e8d3899d51664c39f2ea/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-36-53.png"/>
 </p>
@@ -64,7 +64,7 @@ Se procede a realizar las respectivas conexiones tanto internas (corresponde a c
 
 Finalizado este paso, a partir del archibo _BD.bd_, se crea el archivo verilog el cual contiene las conexiones de todos los bloques.
 
-Con los resultados anteriores, se va a generar el _bitstream_, para ellos incialmente se tienen que realizar las siguientes modificaciones sobres las configuraciones en vivado, como se puede observar en la figura.
+* Con los resultados anteriores, se va a generar el _bitstream_, para ellos incialmente se tienen que realizar las siguientes modificaciones sobres las configuraciones en vivado, como se puede observar en la figura.
 
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
@@ -112,7 +112,7 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 </p>
 
 Posteriormente se abre el _visual basic_ code en la carpeta que cuenta con la siguiente direccion:
-##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
+##### <p align="center"> < [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ > </p>
 Luego se abre el archico _PlatformIO.ini_ y se modifica la linea 21 colocando la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
