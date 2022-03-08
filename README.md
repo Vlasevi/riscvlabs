@@ -51,13 +51,13 @@ Luego de realizar cada una de las conexiones requeridas obtenemos un diseño com
 Ahora se va a generar el _bit stream_: 
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"alt="modulo" width="400"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"alt="modulo" width="500"/>
 </p>
 
 Finalmente se puede observar que se obtuvo el _bit stream_ y la sintesis correctamente: 
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png" alt="modulo" width="400"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png" alt="modulo" width="500"/>
 </p>
 
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN _RVfpga-Soc_
