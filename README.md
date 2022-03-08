@@ -143,7 +143,7 @@ Las variables a mostrar son las que se encuentran en parentesis.
 * Se debió abrir el Visual Code como super usario para poder realizar la traza.
 * El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
 
-### REFERENCIAS :paperclip:
+### REFERENCIAS :dart:
 * [Imagination university program](https://university.imgtec.com/)
 * [Vivado](https://www.xilinx.com/support/download.html)
 * [Visual Basic Code](https://code.visualstudio.com/)
