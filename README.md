@@ -79,7 +79,7 @@ Finalizado este paso, a partir del archibo _BD.bd_, se crea el archivo verilog e
 Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia correspondiente al laboratorio 2 de manera de entender los conceptos y el paso a paso para realizar este laboratorio.
 
 * Se debe obtener el archivo _verilog BD.v_ del laboratorio anterior y llevarlo a la ubicación  
-#### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
+#### <p align="center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/. </p>
 
  En esta ubicación se debe corroborrar que los modulos dentro del archivo _verilog_, terminen en 0_0, como se observa en las siguientes figuras:
 
@@ -112,9 +112,9 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 </p>
 
 Posteriormente se abre el _visual basic_ code en la carpeta que cuenta con la siguiente direccion:
-##### <p align="center"> < [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ > </p>
+##### <p align="center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ </p>
 Luego se abre el archico _PlatformIO.ini_ y se modifica la linea 21 colocando la siguiente redireccion:
-##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
+##### <p align="center"> home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim </p>
 
 Las direcciones de las varibles que se van a observar en el _GTKWave_ son las siguientes: 
 * TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
