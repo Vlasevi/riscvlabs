@@ -86,19 +86,19 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
  En esta ubicación se debe corroborrar que los modulos dentro del archivo _verilog_, terminen en 0_0, como se observa en las siguientes figuras:
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
+ <img src=https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
 </p>
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-23.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-23.png"/>
 </p>
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-30.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-30.png"/>
 </p>
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-41.png"/>
+ <img src="https:https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-41.png"/>
 </p>
 
 Con esta comprobación realizada, se procede a la creación del archivo _Vrvfpgasim_, mediante los siguientes códigos:
@@ -110,7 +110,7 @@ Con esta comprobación realizada, se procede a la creación del archivo _Vrvfpga
 Así se obtiene el resultado en la terminal que se observa en la siguiente figura yse observa que ya el archivo está creado.
 
 <p align="center"> 
- <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/1b90377250b4951d5dbc3e386ae80e207a531ac5/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
 </p>
 
 * Posteriormente se abre el _visual basic code_ en la carpeta que cuenta con la siguiente direccion:
