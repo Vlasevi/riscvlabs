@@ -90,7 +90,7 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 </p>
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-23.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/62d9690599bd853af054f6fd9fdbd91ed2572553/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-23%20(1).png"/>
 </p>
 
 <p align="center"> 
