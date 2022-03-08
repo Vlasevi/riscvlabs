@@ -98,7 +98,7 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 </p>
 
 <p align="center"> 
- <img src="https:https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-41.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/a0c7591137a16262592e7c75499dd809da946fd7/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-41.png"/>
 </p>
 
 Con esta comprobación realizada, se procede a la creación del archivo _Vrvfpgasim_, mediante los siguientes códigos:
