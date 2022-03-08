@@ -138,9 +138,10 @@ Las variables a mostrar son las que se encuentran en parentesis.
 * El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
 
 ### REFERENCIAS :paperclip:
-* The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
-* The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
-* The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
+* [Imagination university program](https://university.imgtec.com/)
+* [Vivado](https://www.xilinx.com/support/download.html)
+* [Visual Basic Code](https://code.visualstudio.com/)
+* [Verilator](https://www.veripool.org/verilator/)
 
 #### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
 * :woman: Angela Yulieth Rivera Gómez - 2162467
