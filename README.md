@@ -2,23 +2,23 @@
  
 _Imagiation technologies_ es una empresa Britanica dedicada al diseño de software y semiconductores, esta empresa cuenta con un programa universitarios que brinda al estudiante materiales de apoyo, guias de referencia y ejercios de laboratorio, además las herramientas para desarrollo de software son gratuitas y cuentan cn una plataforma de hardware a un precio razonable, todo con el fin de que halla una enseñanza genuina para el estudiante.
  
-Para iniciar el curso de RVfpga SoC se desarrollan un conjuto de laboratorios con el fin obtener buenos conocimientos.
+Para iniciar el curso de _RVfpga SoC_ se desarrollan un conjuto de laboratorios con el fin adquirir conocimientos.
 En este informe se va a realizar el desarrollo del lab1 y lab2 respectivamente.
 
 El primero paso a seguir es registrarse en la pagina web de imagination university program y solicitar el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
 Ahoase va a instalar el software necesario para el desarrollo de los laboratorios es el siguiente:
 
- * :black_nib: Vivado 
+ * :black_nib: _Vivado_ 
  * :black_nib: _Cable Drivers_
  * :black_nib: _Digilent Board Files_
  * :black_nib: _VS code_
  * :black_nib: _PlatformIO on top of VSCode_
- * :black_nib: GTKVWave
- * :black_nib: Verilator
+ * :black_nib: _GTKVWave_
+ * :black_nib: _Verilator_
   
 
-### :large_orange_diamond: LABORATORIO 1 - INTRODUCCIÓN A RVfpga-Soc
+### :large_orange_diamond: LABORATORIO 1 - INTRODUCCIÓN A _RVfpga-Soc_
 Para inciar el desarrollo de este laboratorio iniciamos con la lectura incial en la guia de forma que se fuera entendiendo como funciona _RVfpga-SoC_, además de ir conociendo sus caracteristicas principales, posteriormente se fueron conociendo los requerimientos necesarios para el correcto desarrollo del laboratorio.
  
 Primero se iniciara con el desarrollo de la guia por lo tanto se creara un proyecto en vivado: 
@@ -51,13 +51,13 @@ Luego de realizar cada una de las conexiones requeridas obtenemos un diseño com
 Ahora se va a generar el _bit stream_: 
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2021-26-42.png"alt="modulo" width="400"/>
 </p>
 
 Finalmente se puede observar que se obtuvo el _bit stream_ y la sintesis correctamente: 
 
 <p align="center"> 
- <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/c7ee3ebc16cc1986ad42da0d897b7c13d6281938/Im%C3%A1genes/Screenshot%20from%202022-03-06%2022-44-06.png" alt="modulo" width="400"/>
 </p>
 
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN _RVfpga-Soc_
@@ -96,14 +96,14 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
  <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/1b90377250b4951d5dbc3e386ae80e207a531ac5/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
 </p>
 
-Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
+Posteriormente se abre el _visual basic code_ en la carpeta que cuenta con la siguiente direccion:
 ##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
-Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
+Luego se abre el archico _PlatformIO.ini_ y se modifica la linea 21 añadiendo la siguiente redireccion:
 ##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
 
 Las direcciones de las varibles que se van a observar en el _GTKWave_ son las siguientes: 
-* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
-* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])
+* _TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])_
+* _TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])_
 
 Las variables a mostrar son las que se encuentran en parentesis.
 
@@ -117,10 +117,10 @@ Las variables a mostrar son las que se encuentran en parentesis.
 
 ### CONCLUSIONES :heavy_check_mark:
 
-* Se pudo ejecutar el programa de prueba AL_Operations en el procesador y observar su comportamiento mediante GtkWave.
+* Se pudo ejecutar el programa de prueba _AL_Operations_ en el procesador y observar su comportamiento mediante _GtkWave_.
 * Mediante el uso de vivado se pudo sintetizar el diseño para generar el archivo verilog del procesador para realizar la simulación.
 * Se debió abrir el Visual Code como super usario para poder realizar la traza.
-* El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
+* El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en _Gtkwave_.
 
 ### REFERENCIAS :paperclip:
 * The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
