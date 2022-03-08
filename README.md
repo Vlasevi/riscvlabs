@@ -86,7 +86,7 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
  En esta ubicación se debe corroborrar que los modulos dentro del archivo _verilog_, terminen en 0_0, como se observa en las siguientes figuras:
 
 <p align="center"> 
- <img src=https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
+ <img src="https://github.com/Vlasevi/riscvlabs/blob/ba23f66f7315943cc86921ef832bdf7d636be216/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
 </p>
 
 <p align="center"> 
