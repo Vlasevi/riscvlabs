@@ -113,7 +113,7 @@ Con esto se obtiene el resultado en la terminal que se observa en la figura y ya
 
 Posteriormente se abre el _visual basic_ code en la carpeta que cuenta con la siguiente direccion:
 ##### <p align="center"> [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ </p>
-Luego se abre el archico _PlatformIO.ini_ y se modifica la linea 21 colocando la siguiente redireccion:
+Luego se abre el archivo _PlatformIO.ini_ y se modifica redireccionando la linea 21:
 ##### <p align="center"> home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim </p>
 
 Las direcciones de las varibles que se van a observar en el _GTKWave_ son las siguientes: 
