@@ -7,7 +7,7 @@ En este informe se va a realizar el desarrollo del lab1 y lab2 respectivamente.
 
 El primero paso a seguir es registrarse en la pagina web de _imagination university program_ y solicitar el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
-Ahoase va a instalar el software necesario para el desarrollo de los laboratorios es el siguiente:
+Ahora se va a instalar el software necesario para el desarrollo de los laboratorios es el siguiente:
 
  * :black_nib: _Vivado_ 
  * :black_nib: _Cable Drivers_
@@ -29,7 +29,7 @@ Ahoase va a instalar el software necesario para el desarrollo de los laboratorio
 
 Ahora se deben incluir los directorios y los archivos y así dejar creado el proyecto.
 
-Luego se definen algunos archivos de manera global, como se puede observar en la figura. También se debe asignar el archivo _rvfpga.sv_ como _"top"_.
+* Luego se definen algunos archivos de manera global, como se puede observar en la figura. También se debe asignar el archivo _rvfpga.sv_ como _"top"_.
 <p align="center"> 
  <img src="https://github.com/Vlasevi/riscvlabs/blob/10ceab68894be5e6ab13573844f50aaf18fbfe8e/Im%C3%A1genes/Screenshot%20from%202022-03-06%2018-22-41.png" alt="modulo" width="400"/>
 </p>
@@ -101,9 +101,9 @@ Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectu
 
 Con esta comprobación realizada, se realiza la creación del archivo _Vrvfpgasim_, mediante los siguientes códigos:
 
-* 'cdcd' [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
-* 'make clean'
-* 'make'
+* `cdcd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM`
+* `make clean`
+* `make`
 
 Con esto se obtiene el resultado en la terminal que se observa en la figura y ya el archivo está creado.
 
