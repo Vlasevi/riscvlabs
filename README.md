@@ -1,10 +1,13 @@
  # <p align= "center"> :books: RVfpga SoC THE IMAGINATION UNIVERSITY PROGRAMME :books: </p>
  
- Para desarrollar el curso de RVfpga SoC, se desarrollan un conjuto de laboratorios para lograr un mejor entendimiento. Este informe, se realizan los laboratorios 1 y 2 correspondientes a este curso.
+Imagiation technologies es una empresa Britanica dedicada al diseño de software y semiconductores, esta empresa cuenta con un programa universitarios que brinda al estudiante materiales de apoyo, guias de referencia y ejercios de laboratorio, además las herramientas para desarrollo de software son gratuitas y cuentan cn una plataforma de hardware a un precio razonable, todo con el fin de que halla una enseñanza genuina para el estudiante.
+ 
+Para iniciar el curso de RVfpga SoC se desarrollan un conjuto de laboratorios con el fin obtener buenos conocimientos.
+En este informe se va a realizar el desarrollo del lab1 y lab2 respectivamente.
 
-Para la realización de estos incialmente nos registramos en la pagina web de imagination university program y solicitamos el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
+El primero paso a seguir es registrarse en la pagina web de imagination university program y solicitar el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
-El software necesario para el desarrollo de los laboratorios es el siguiente:
+Ahoase va a instalar el software necesario para el desarrollo de los laboratorios es el siguiente:
 
  * :black_nib: Vivado 
  * :black_nib: Cable Drivers
@@ -130,17 +133,3 @@ Las variables a mostrar son las que se encuentran en parentesis.
 
 
 
-
-### CONCLUSIONES :heavy_check_mark:
-* 
-* 
-* 
-
-### REFERENCIAS :paperclip:
-* The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
-* The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
-* The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
-
-#### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
-* :woman: Angela Yulieth Rivera Gómez - 2162467
-* :man: Vladimir Sebastian Villamizar Anaya - 2171522
