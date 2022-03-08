@@ -2,10 +2,10 @@
  
 _Imagiation technologies_ es una empresa Britanica dedicada al diseño de software y semiconductores, esta empresa cuenta con un programa universitarios que brinda al estudiante materiales de apoyo, guias de referencia y ejercios de laboratorio, además las herramientas para desarrollo de software son gratuitas y cuentan cn una plataforma de hardware a un precio razonable, todo con el fin de que halla una enseñanza genuina para el estudiante.
  
-Para iniciar el curso de _RVfpga SoC_ se desarrollan un conjuto de laboratorios con el fin adquirir conocimientos.
+Para iniciar el curso de _RVfpga SoC_ se desarrollan un conjuto de laboratorios con el fin de adquirir conocimientos.
 En este informe se va a realizar el desarrollo del lab1 y lab2 respectivamente.
 
-El primero paso a seguir es registrarse en la pagina web de imagination university program y solicitar el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
+El primero paso a seguir es registrarse en la pagina web de _imagination university program_ y solicitar el envio del mataerial correspondiente, posteriormente se incio la lectura de la guia para iniciar la instalación y desarrollo de los laboratorios.
 
 Ahoase va a instalar el software necesario para el desarrollo de los laboratorios es el siguiente:
 
