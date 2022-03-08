@@ -60,7 +60,74 @@ Finalmente se puede observar que se obtuvo el bit stream y la sintesis correctam
 ### :large_orange_diamond: LABORATORIO 2 - CORRIENDO EL SOFTWARE EN RVfpga-Soc
 Para inciar el desarrollo del segundo laboratorio se realizo la respectiva lectura de la guia de manera que se conocieran y entendieran los requerimientos necesarios para la implementación.
 
-Primero 
+* Se debe obtener el archivo verilog BD.v del laboratorio anterior y llevarlo a la ubicación  
+#### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/src/SweRVolfSoC/.
+
+ En esta ubicación se debe corroborrar que los modulos dentro del archivo verilog, terminen en 0_0, como se observa en las siguientes figuras:
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-13.png"/>
+</p>
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-23.png"/>
+</p>
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-30.png"/>
+</p>
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/5fb83562aa8dccc5db3205ccfa065064efe62e14/Im%C3%A1genes/Screenshot%20from%202022-03-07%2010-40-41.png"/>
+</p>
+
+Ya con esta comprobación realizada, se realiza la creación del archivo Vrvfpgasim, mediante los siguientes códigos:
+
+* cdcd [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM
+* make clean
+* make
+
+Con esto se obtiene el resultado en la terminal que se observa en la figura y ya el archivo está creado.
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/1b90377250b4951d5dbc3e386ae80e207a531ac5/Im%C3%A1genes/Screenshot%20from%202022-03-07%2011-11-52.png"/>
+</p>
+
+Posteriormente se abre el visual basic code en la carpeta que cuenta con la siguiente direccion:
+##### [RVfpgaSoCPath]/RVfpgaSoC/Labs/LabResources/Lab2/examples/ 
+Luego se abre el archico PlatformIO.ini y se modifica la linea 21 colocando la siguiente redireccion:
+##### home/user/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/Vrvfpgasim
+
+Las direcciones de las varibles que se van a observar en el GTKWave son las siguientes: 
+* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv ifu(clk,ifu_i0_instr[31:0],ifu_i1_instr[31:0])
+* TOP rvfpgasim swervolf swerv_wrapper_verilog_0 swerv_eh1_2 swerv dec arf gpr_banks(0) gpr(28) gprff (dout[31:0])
+
+Las variables a mostrar son las que se encuentran en parentesis.
+
+
+:heavy_check_mark: Finalmente se pueden observar los resultados en GTKWave donde las variables nos muestran los resultados esperados:
+
+<p align="center"> 
+ <img src="https://github.com/Computer-Architecture-I-UIS/project-rivera-villamizar/blob/b3c38212b6a7bdbb30042a85f54c13a50afde4cc/Im%C3%A1genes/12.png"/>
+</p>
+
+
+### CONCLUSIONES :heavy_check_mark:
+
+* Se pudo ejecutar el programa de prueba AL_Operations en el procesador y observar su comportamiento mediante GtkWave.
+* Mediante el uso de vivado se pudo sintetizar el diseño para generar el archivo verilog del procesador para realizar la simulación.
+* Se debió abrir el Visual Code como super usario para poder realizar la traza.
+* El archivo trace.vcd debió moverse a una ubicación sin restricciones para poder ser corrido en Gtkwave.
+
+### REFERENCIAS :paperclip:
+* The imagination university program (2021), RVfpga-SoC INSTALLATION GUIDE
+* The imagination university program (2021), RVfpga-SoC LAB 1 INTRODUCTION TO RVfpga-SoC
+* The imagination university program (2021), RVfpga-SoC LAB 2 RUNNING SOFTWARE ON RVfpga-SoC
+
+#### UNIVERSIDAD INDUSTRIAL DE SANTANDER :mortar_board:
+* :woman: Angela Yulieth Rivera Gómez - 2162467
+* :man: Vladimir Sebastian Villamizar Anaya - 2171522
+
 
 
 
