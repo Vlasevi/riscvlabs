@@ -1,0 +1,30 @@
+[2022-03-07 20:58:17.741] [exthost] [info] Extension host with pid 3786 started
+[2022-03-07 20:58:18.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-07 20:58:18.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-07 20:58:18.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-07 20:58:18.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-07 20:58:18.185] [exthost] [info] Eager extensions activated
+[2022-03-07 20:58:18.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 20:58:18.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 20:58:44.646] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-07 20:58:44.648] [exthost] [info] Extension host with pid 3786 exiting with code 0
+[2022-03-07 20:58:46.935] [exthost] [info] Extension host with pid 3873 started
+[2022-03-07 20:58:46.935] [exthost] [info] Skipping acquiring lock for /home/vladimir/RVfpgaSoC/Labs/LabResources/Lab2/verilatorSIM/User/workspaceStorage/c67424d23dd2d2ceced7475d1d5a58b8.
+[2022-03-07 20:58:47.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-07 20:58:47.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-07 20:58:47.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-07 20:58:47.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-07 20:58:47.191] [exthost] [info] Eager extensions activated
+[2022-03-07 20:58:47.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 20:58:47.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-07 20:58:48.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-07 20:58:48.261] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-03-07 20:58:48.546] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: '*'
+[2022-03-07 20:58:49.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-07 20:58:49.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-07 20:58:49.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-07 20:58:49.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-07 20:58:49.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-07 20:59:03.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-03-07 20:59:03.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-03-07 20:59:03.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
